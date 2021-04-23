@@ -1,0 +1,8 @@
+{
+  "produtos": [
+    { "id": 1, "jogos": "GTA 5", "preco": "R$ 157,00" },
+    { "id": 2, "jogos": "Destiny 2", "preco": "R$ 200,00" },
+    { "id": 3, "jogos": "Assassins's creed Valhala", "preco": "R$ 400,00" },
+    { "id": 4, "jogos": "Need For Speed Heat", "preco": "R$ 290,00" }
+  ]
+}
